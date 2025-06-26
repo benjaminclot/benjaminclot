@@ -8,7 +8,8 @@ You can find my resume [here](https://drive.google.com/file/d/1rqaVs7pZaBPjcxD-y
 
 | | | | |
 |:--:|:--:|:--:|:--:|
-| <img width="75" src="./img/mylittleparis.svg" alt="My Little Paris"></img> | [My Little Paris](https://www.mylittleparis.com) | CTO | 2023- |
+| <img width="75" src="./img/366.svg" alt="366"></img> | [366](https://www.366.fr) | VP Engineering | 2025- |
+| <img width="75" src="./img/mylittleparis.svg" alt="My Little Paris"></img> | [My Little Paris](https://www.mylittleparis.com) | CTO | 2023-2025 |
 | <img width="75" src="./img/flexilivre.svg" alt="FlexiLivre"></img> | [FlexiLivre](https://www.flexilivre.com) | Associate & Technical Advisor | 2015- |
 | <img width="75" src="./img/qwarry.svg" alt="Qwarry"></img> | [Qwarry](https://www.qwarry.com) | VP Engineering | 2021-2022 |
 | <img width="75" src="./img/lesechos.svg" alt="Les Echos"></img> | [Les Echos](https://www.lesechos.fr) | Product Owner | 2020-2021 |
