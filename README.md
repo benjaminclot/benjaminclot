@@ -4,13 +4,13 @@
 ## Experience
 Passionate about all things Web and AdTech, hands-on, I thrive at solving problems and discovering new tools and technologies. Don't talk to me about frameworks :wink:
 
-You can find my resume [here](https://drive.google.com/file/d/1rqaVs7pZaBPjcxD-yya7chfwUTTpEHQ3/view?usp=drive_link).
+You can find my resume [here](https://drive.google.com/file/d/1C2p1m9F2ZpfA_5weILty2zvvc_pmDCUZ/view?usp=sharing).
 
 | | | | |
 |:--:|:--:|:--:|:--:|
 | <img width="75" src="./img/366.svg" alt="366"></img> | [366](https://www.366.fr) | VP Engineering | 2025- |
-| <img width="75" src="./img/mylittleparis.svg" alt="My Little Paris"></img> | [My Little Paris](https://www.mylittleparis.com) | CTO | 2023-2025 |
 | <img width="75" src="./img/flexilivre.svg" alt="FlexiLivre"></img> | [FlexiLivre](https://www.flexilivre.com) | Associate & Technical Advisor | 2015- |
+| <img width="75" src="./img/mylittleparis.svg" alt="My Little Paris"></img> | [My Little Paris](https://www.mylittleparis.com) | CTO | 2023-2025 |
 | <img width="75" src="./img/qwarry.svg" alt="Qwarry"></img> | [Qwarry](https://www.qwarry.com) | VP Engineering | 2021-2022 |
 | <img width="75" src="./img/lesechos.svg" alt="Les Echos"></img> | [Les Echos](https://www.lesechos.fr) | Product Owner | 2020-2021 |
 | <img width="75" src="./img/adverline.svg" alt="Adverline"></img> | Adverline | CTO | 2010-2020 |
