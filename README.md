@@ -2,7 +2,7 @@
 [![](https://img.shields.io/badge/linkedin-fff?logo=linkedin&logoColor=0073b0)](https://www.linkedin.com/in/benjaminclot/)
 
 ## Experience
-Passionate about all things Web and AdTech, hands-on, I thrive at solving problems and discovering new tools and technologies. Don't talk to me about frameworks :wink:
+Passionate about all things Web and AdTech, I’m looking for my next impactful and ambitious challenges. Hands-on, I thrive at solving problems and discovering new tools and technologies, while also delegating and relying on my team so we can learn and grow together.
 
 You can find my resume [here](https://drive.google.com/file/d/1C2p1m9F2ZpfA_5weILty2zvvc_pmDCUZ/view?usp=sharing).
 
